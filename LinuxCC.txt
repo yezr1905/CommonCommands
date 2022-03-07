@@ -33,6 +33,8 @@ topas /home/george/topas/examples/Graphics/QtTest.txt
 find / -type d -iname "*"
 ls -ah
 
+git config --global user.name "name"
+git config --global user.email "email"
 ssh-keygen -t rsa -C "youremail@example.com"
 git init
 	git add <file>
