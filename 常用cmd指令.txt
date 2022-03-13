@@ -1,0 +1,46 @@
+生成电池报告    powercfg /batteryreport
+打开屏幕键盘    osk
+重置网络(慎重)  netsh winsock reset
+word2016全屏显示：Alt+u+v
+powerpoint2016 从头放映：F5	当前放映：Shift+F5
+
+cmd指令：
+d:
+cd
+cd>
+md
+del
+dir
+
+win组合快捷键
+　  1. Win：开始菜单
+　　2. Win+D：最小化桌面
+　　3. Win+L：锁屏
+　　4. Win+E：此电脑/资源管理器
+　　5. Win+++++++：放大镜
+　　PS：放大后还可以用Win+-再缩小回来，
+　　6. Win+I：系统设置
+　　电脑运行中，难免会需要控制面板。在Win10中控制面板被全新更名为“设置”面板，相应快捷键也被置换为“Win+I”。当然传统控制面板也是保留的，快捷键为Win+X+P。
+　　7. Win+TAB：任务视图
+　　8. Win+→/↑/←/↓：窗口排版
+　　9. Win+Home：快速清理活动窗口
+　　按下这个键后，除当前窗口外的所有窗口都会自动最小化
+　　10. Shift+Win+1~9：打开任务栏对应软件
+    11. Win+Q：启动小娜
+　　12. Win+P：启动投影仪/无线显示器
+　　13. Win+G：屏幕录制
+       14.Win+Shift+s:快速截图
+       15.Alt+Tab: 窗口缩略预览
+       16.Win+Ctrl+D:添加虚拟桌面
+       17.Win+Ctrl+←/→:切换虚拟桌面
+       18.Win+Ctrl+F4:关闭虚拟桌面
+
+ikbc c104
+Fn+：F9 静音 F10 音减 F11 音增 F12 锁win PrtSc 解win ScrLK 六/全键无冲 Delete 恢复出厂设置
+
+python conda path:
+C:\Users\yezr1\anaconda3\envs\YezrCommon;C:\Users\yezr1\anaconda3\envs\YezrCommon\Lib;C:\Users\yezr1\anaconda3\envs\YezrCommon\Scripts;C:\Users\yezr1\anaconda3\envs\YezrCommon\Library\bin;
+
+C:\Users\yezr1\anaconda3;C:\Users\yezr1\anaconda3\Lib;C:\Users\yezr1\anaconda3\Scripts;C:\Users\yezr1\anaconda3\Library\bin;
+
+C:\Users\yezr1\anaconda3\envs\OldPython;C:\Users\yezr1\anaconda3\envs\OldPython\Lib;C:\Users\yezr1\anaconda3\envs\OldPython\Scripts;C:\Users\yezr1\anaconda3\envs\OldPython\Library\bin;

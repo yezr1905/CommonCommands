@@ -1,0 +1,10 @@
+1、学markdown
+    vscode——用于轻量级编写，如readme、便签
+        可插入代码块，不需要实时运行，不需要插入图片、表格等
+    typora——日用级编写，如编程说明、报告、手册
+        可插入代码块、图片、表格等
+2、改大物报告
+3、思考markdown、sphinx、git、为知笔记、jupyter的用法
+4、学C++、cmake
+5、学3d模型
+6、学jupyter，用于python代码测试
